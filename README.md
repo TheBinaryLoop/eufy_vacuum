@@ -54,6 +54,8 @@ eufy_vacuum:
 
 **G30 Hybrid** T2253 
 
+**G10 Hybrid** T2150
+
 **25C** T2123 
 
 **11C** T2103 
